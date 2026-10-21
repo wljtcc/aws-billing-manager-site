@@ -1,0 +1,15 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Python / Local dev
+__pycache__/
+*.py[cod]
+
+# Dependencies & Build (if used in future)
+node_modules/
+dist/
+.cache/
